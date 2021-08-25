@@ -1,0 +1,19 @@
+{
+  "name": "firedevs-back",
+  "version": "1.0.0",
+  "description": "Test backend for CRUD opperations",
+  "main": "index.js",
+  "author": "Isaac Vega Rodriguez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/nedb": "^1.8.12",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "morgan": "^1.10.0",
+    "nedb": "^1.8.0"
+  }
+}
